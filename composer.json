@@ -1,5 +1,5 @@
 {
-    "name": "mastist/paper-input",
+    "name": "martist/paper-input",
     "type": "library",
     "description": "word文档导入数据库",
     "keywords": ["word","paper"],

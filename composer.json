@@ -1,11 +1,24 @@
 {
     "name": "mastist/paper-input",
+    "type": "library",
     "description": "word文档导入数据库",
+    "keywords": ["word","paper"],
+    "homepage": "https://github.com/ma1203580780/paper",
+    "license": "MIT",
     "authors": [
         {
-            "name": "machuang",
-            "email": "1203580780@qq.com"
+            "name": "martist",
+            "email": "1203580780@qq.com",
+            "homepage": "http://martist.cn",
+            "role": "Developer"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Paper": ""
+        }
+    }
 }

@@ -1,0 +1,11 @@
+{
+    "name": "mastist/paper-input",
+    "description": "word文档导入数据库",
+    "authors": [
+        {
+            "name": "machuang",
+            "email": "1203580780@qq.com"
+        }
+    ],
+    "require": {}
+}
